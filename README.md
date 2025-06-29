@@ -4,6 +4,13 @@ A civic operating system prototype — essay, cadCAD simulation, and bonding-cur
 
 > 🌱 *A city that provides for everybody, because it is created by everybody.*
 
+
+**↗ Read the published article:**  
+https://www.shanzz.xyz/ostromia-building-a-civic-operating-system-in-times-of-disruption/
+
+**↘ Explore the code & simulations:**  
+`/simulation/ostromia_simulation.ipynb`
+
 Ostromia is an experiment in **token-driven localism**:  
 - **Essay:** a manifesto on commons-centric governance for AI-disrupted cities.  
 - **cadCAD Model:** 7-day minimal simulation of City-Point minting via a bonding curve.  
