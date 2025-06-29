@@ -9,7 +9,7 @@ A civic operating system prototype — essay, cadCAD simulation, and bonding-cur
 https://www.shanzz.xyz/ostromia-building-a-civic-operating-system-in-times-of-disruption/
 
 **↘ Explore the code & simulations:**  
-`/simulation/ostromia_simulation.ipynb`
+`/simulation/Ostromia-civic-os-V1.ipynb`
 
 Ostromia is an experiment in **token-driven localism**:  
 - **Essay:** a manifesto on commons-centric governance for AI-disrupted cities.  
