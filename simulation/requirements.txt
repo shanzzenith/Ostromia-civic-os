@@ -1,0 +1,4 @@
+cadCAD==0.5.3
+dill==0.3.7
+pandas
+matplotlib
